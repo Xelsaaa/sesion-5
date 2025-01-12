@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="aks1]jWM#jQ|%84BKX+A" x="30" y="110"><statement name="HANDLER"><block type="gamesetbackgroundimage" id="`,DX03M5^piU:LMkm%rv"><value name="img"><shadow type="background_image_picker" id="e[RET0-IskgHJtG5x*n?"><field name="img">img`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="aks1]jWM#jQ|%84BKX+A" x="0" y="0"><statement name="HANDLER"><block type="gamesetbackgroundimage" id="`,DX03M5^piU:LMkm%rv"><value name="img"><shadow type="background_image_picker" id="e[RET0-IskgHJtG5x*n?"><field name="img">img`
 9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
 9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
 9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
